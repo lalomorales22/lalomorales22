@@ -1,6 +1,6 @@
 # Lalo's GitHub Portfolio
 
-![Alt Text]([https://laloadrianmorales.com/wp-content/uploads/2024/01/AIpenguins2-768x768.jpeg))
+!([https://laloadrianmorales.com/wp-content/uploads/2024/01/AIpenguins2-768x768.jpeg))
 
 ## Social Media
 
