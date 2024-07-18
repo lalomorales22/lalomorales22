@@ -1,6 +1,8 @@
 # Lalo's GitHub Portfolio
 
-!([https://laloadrianmorales.com/wp-content/uploads/2024/01/AIpenguins2-768x768.jpeg))
+![Lalo's Logo](https://laloadrianmorales.com/wp-content/uploads/2024/01/AIpenguins2-768x768.jpeg)
+
+Welcome to my GitHub portfolio! I'm Lalo, a software developer and data engineer based in San Diego. This repository serves as a showcase of my projects, skills, and interests.
 
 ## Social Media
 
@@ -19,44 +21,30 @@
   </a>
 </div>
 
-- 👋 Hi, I’m @lalomorales22
-- 👀 I’m interested in computers and the future
-- 🌱 I’m currently learning the secrets to the universe
-- 💞️ I’m looking to collaborate on a kids book about penguins
-- 📫 How to reach me?  Share your screen
-- ⚡ Fun fact: I have 47 Penguin tattoos
-
-
-
-I'm Lalo, a software developer and data engineer based in San Diego. This repository serves as a showcase of my projects, skills, and interests.
-
 ## About Me
 
 - **Name:** Lalo
 - **Location:** San Diego, California
 - **Profession:** Software Developer and Data Engineer
-- **Company:** Supherb, a cannabis brand in California
 - **Languages:** HTML, JS, CSS, Python, R, Ruby, and more
 - **Interests:** AI, computer networking, digital marketing, natural language processing, large language models
-- **Personal:** 2.3 years sober, father to a 5-year-old, husband
+- **Personal:** 2.6 years sober, father to a 5-year-old, husband
 
 ## Projects
 
 ### Current Projects
 
-2. **WGGY Project**
+ **WGGY Project**
    - **Website:** [whatgodgaveyou.com](http://whatgodgaveyou.com)
    - **Description:** Developing a user-friendly, futuristic yet minimalist app to process and rename files. Focused on creating a prototype for the initial release.
 
-3. **that's_my_bit**
+ **that's_my_bit**
    - **Description:** A project with a specified file structure, details can be found in the project repository.
 
-### Personal Projects
-
-1. **Connecting the Dots of the Universe**
+ **Connecting the Dots of the Universe**
    - **Description:** A book exploring connections between language models, sound and frequency, and the Fibonacci sequence. Incorporating works of Randall Carlson, Malcolm Bendall, Terrance Howard, and Walter Russell.
 
-2. **Comedian's Joke App**
+ **Comedian's Joke App**
    - **Description:** An app for comedians to record and manage their jokes, featuring AI-based transcription, summarization, keyword generation, and visualization.
 
 ## Skills
@@ -75,8 +63,10 @@ I'm Lalo, a software developer and data engineer based in San Diego. This reposi
 
 ## Contact
 
-- **Email:** laloadrianmorales@gmail.com
-
+- **Email:** [laloadrianmorales@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/lalo-morales-331474208/]
+- **Twitter:** [@lalopenguin]
+- **Website:** [https://www.laloadrianmorales.com]
 
 Thank you for visiting my GitHub portfolio. Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
