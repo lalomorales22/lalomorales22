@@ -42,9 +42,6 @@ Welcome to my GitHub portfolio! I'm Lalo, a software developer and data engineer
   <a href="https://www.discord.com/users/laloadrianmorales" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40" alt="Discord"/>
   </a>
-  <a href="https://www.threads.net/@laloadrianmorales" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/threads.png" width="40" height="40" alt="Threads"/>
-  </a>
 </div>
 
 ## About Me
