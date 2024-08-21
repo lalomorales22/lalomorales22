@@ -6,44 +6,44 @@ Welcome to my GitHub portfolio! I'm Lalo, a software developer and data engineer
 
 ## Social Media
 <div align="center">
-  <a href="https://github.com/lalomorales22" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" height="40" alt="GitHub"/>
+  <a href="https://github.com/lalomorales22" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" height="40" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/lalopenguin" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="40" height="40" alt="Twitter"/>
+  <a href="https://twitter.com/lalopenguin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/lalo-morales-331474208/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/lalo-morales-331474208/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/lalodangermorales/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" width="40" height="40" alt="Facebook"/>
+  <a href="https://www.facebook.com/lalodangermorales/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" height="40" alt="Facebook"/>
   </a>
-  <a href="https://www.twitch.tv/laloadrianmorales" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitch.png" width="40" height="40" alt="Twitch"/>
+  <a href="https://www.twitch.tv/laloadrianmorales" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/twitch--v1.png" width="40" height="40" alt="Twitch"/>
   </a>
-  <a href="https://www.reddit.com/user/laloadrianmorales/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/reddit.png" width="40" height="40" alt="Reddit"/>
+  <a href="https://www.reddit.com/user/laloadrianmorales/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/reddit.png" width="40" height="40" alt="Reddit"/>
   </a>
-  <a href="https://www.instagram.com/laloadrianmorales/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="40" height="40" alt="Instagram"/>
+  <a href="https://www.instagram.com/laloadrianmorales/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="40" height="40" alt="Instagram"/>
   </a>
-  <a href="https://www.laloadrianmorales.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40" height="40" alt="Personal Website"/>
+  <a href="https://www.laloadrianmorales.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Personal Website"/>
   </a>
-  <a href="https://www.youtube.com/@thelalomorales" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="40" height="40" alt="YouTube"/>
+  <a href="https://www.youtube.com/@thelalomorales" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" height="40" alt="YouTube"/>
   </a>
-  <a href="https://www.tiktok.com/@jreclips222" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok.png" width="40" height="40" alt="TikTok"/>
+  <a href="https://www.tiktok.com/@jreclips222" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/tiktok.png" width="40" height="40" alt="TikTok"/>
   </a>
-  <a href="https://www.yelp.com/biz/penguin-dreams-chula-vista" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/yelp.png" width="40" height="40" alt="Yelp"/>
+  <a href="https://www.yelp.com/biz/penguin-dreams-chula-vista" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/yelp.png" width="40" height="40" alt="Yelp"/>
   </a>
-  <a href="https://www.discord.com/users/laloadrianmorales" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" width="40" height="40" alt="Discord"/>
+  <a href="https://www.discord.com/users/laloadrianmorales" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40" alt="Discord"/>
   </a>
-  <a href="https://www.threads.net/@laloadrianmorales" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/threads.png" width="40" height="40" alt="Threads"/>
+  <a href="https://www.threads.net/@laloadrianmorales" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/threads.png" width="40" height="40" alt="Threads"/>
   </a>
 </div>
 
