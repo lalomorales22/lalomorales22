@@ -1,6 +1,5 @@
 # Lalo's GitHub Portfolio
-
-![Lalo's Logo](https://laloadrianmorales.com/wp-content/uploads/2024/01/AIpenguins2-768x768.jpeg)
+<img src="https://laloadrianmorales.com/wp-content/uploads/2024/01/AIpenguins2-768x768.jpeg" alt="Lalo's Logo" width="500" height="300" style="object-fit: cover;">
 
 Welcome to my GitHub portfolio! I'm Lalo, a software developer and data engineer based in San Diego. This repository serves as a showcase of my projects, skills, and interests.
 
