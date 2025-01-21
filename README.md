@@ -5,10 +5,8 @@
 -->
 
 <div align="center">
-  
-01010101 01010101 01010101 01010101 01010101 01 10 10 Welcome to My Github 01 01 10 01010101 01010101 01010101 01010101 01010101
 
-<img src="https://laloadrianmorales.com/wp-content/uploads/2024/01/AIpenguins2-768x768.jpeg" alt="Lalo's Logo" width="500" height="300" style="object-fit: cover;">
+<img src="https://laloadrianmorales.com/wp-content/uploads/2024/01/AIpenguins2-768x768.jpeg" alt="Lalo's Logo" width="400" height="300" style="object-fit: cover;">
 </div>
 
 ---
