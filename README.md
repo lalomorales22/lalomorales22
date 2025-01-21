@@ -1,168 +1,124 @@
-<!-- 
-  Dark Theme Profile Page with White Borders
-  ------------------------------------------
-  Tip: This example uses inline styles to ensure GitHub renders it properly.
-  You can tweak spacing, font sizes, or colors as needed.
+<!--
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   Lalo's GitHub Portfolio (Black & White Matrix Vibe)
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -->
 
-<div style="
-  display: flex; 
-  flex-direction: column; 
-  background-color: #000; 
-  color: #fff; 
-  min-height: 100vh; 
-  font-family: Arial, sans-serif;
-">
+<div align="center">
 
-  <!-- Hero Section -->
-  <div style="
-    width: 100%; 
-    border: 2px solid #fff; 
-    box-sizing: border-box; 
-    margin-bottom: 10px;
-  ">
-    <img 
-      src="https://laloadrianmorales.com/wp-content/uploads/2024/01/AIpenguins2-768x768.jpeg" 
-      alt="Lalo's Hero" 
-      style="
-        display: block; 
-        width: 100%; 
-        height: auto; 
-        max-height: 350px; 
-        object-fit: cover;
-      "
-    />
-  </div>
+<img src="https://laloadrianmorales.com/wp-content/uploads/2024/01/AIpenguins2-768x768.jpeg" alt="Lalo's Logo" width="400" height="300" style="object-fit: cover;">
+</div>
 
-  <!-- Top-Level Nav Links -->
-  <div style="
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
-    gap: 15px; 
-    padding: 10px; 
-    border: 2px solid #fff; 
-    margin: 0 0 10px 0; 
-    box-sizing: border-box;
-  ">
-    <a href="https://github.com/lalomorales22" style="color: #fff; text-decoration: none;">GitHub</a>
-    <a href="https://twitter.com/lalopenguin" style="color: #fff; text-decoration: none;">Twitter</a>
-    <a href="https://www.linkedin.com/in/lalo-morales-331474208/" style="color: #fff; text-decoration: none;">LinkedIn</a>
-    <a href="https://www.laloadrianmorales.com" style="color: #fff; text-decoration: none;">Website</a>
-    <a href="https://www.youtube.com/@thelalomorales" style="color: #fff; text-decoration: none;">YouTube</a>
-    <a href="https://www.twitch.tv/laloadrianmorales" style="color: #fff; text-decoration: none;">Twitch</a>
-    <a href="https://www.instagram.com/laloadrianmorales/" style="color: #fff; text-decoration: none;">Instagram</a>
-    <a href="https://www.reddit.com/user/laloadrianmorales/" style="color: #fff; text-decoration: none;">Reddit</a>
-    <a href="https://www.yelp.com/biz/penguin-dreams-chula-vista" style="color: #fff; text-decoration: none;">Yelp</a>
-    <a href="https://www.discord.com/users/laloadrianmorales" style="color: #fff; text-decoration: none;">Discord</a>
-  </div>
+---
 
-  <!-- Content Grid (3 columns, 2 rows) -->
-  <div style="
-    display: grid; 
-    grid-template-columns: repeat(3, 1fr); 
-    gap: 10px; 
-    flex-grow: 1;
-    box-sizing: border-box; 
-    padding: 10px;
-  ">
-    <!-- About Me -->
-    <div style="
-      border: 2px solid #fff; 
-      padding: 10px; 
-      box-sizing: border-box;
-    ">
-      <h2 style="margin-top: 0;">About Me</h2>
-      <ul>
-        <li>Name: <strong>Lalo</strong></li>
-        <li>Location: San Diego</li>
-        <li>Profession: Software Developer &amp; Data Engineer</li>
-        <li>Interests: AI, code, digital marketing, networking</li>
-        <li>Personal: 2.6 years sober, father, husband</li>
-      </ul>
-    </div>
+# Lalo's GitHub Portfolio
 
-    <!-- Projects -->
-    <div style="
-      border: 2px solid #fff; 
-      padding: 10px; 
-      box-sizing: border-box;
-    ">
-      <h2 style="margin-top: 0;">Projects</h2>
-      <ul>
-        <li><strong>WGGY Project:</strong> <a href="http://whatgodgaveyou.com" style="color: #fff;">whatgodgaveyou.com</a></li>
-        <li><strong>that's_my_bit:</strong> file structure &amp; experiments</li>
-        <li><strong>Connecting the Dots:</strong> exploring language models &amp; universal patterns</li>
-        <li><strong>Comedian's Joke App:</strong> AI-based transcription &amp; summarization</li>
-      </ul>
-    </div>
+Greetings, traveler of code and cosmic curiosities! I'm **Lalo**, a software developer and data engineer based in sunny San Diego. In this little corner of the GitHub realm, you'll find a smorgasbord of my projects, ideas, and personal tidbits. 
 
-    <!-- Skills -->
-    <div style="
-      border: 2px solid #fff; 
-      padding: 10px; 
-      box-sizing: border-box;
-    ">
-      <h2 style="margin-top: 0;">Skills</h2>
-      <ul>
-        <li>Languages: HTML, JS, CSS, Python, R, Ruby</li>
-        <li>Frameworks: Django, React</li>
-        <li>Data Tools: Sheets, App Sheets, Looker Studio</li>
-        <li>Tech: AI, NLP, LLMs, Networking</li>
-      </ul>
-    </div>
+## Social Media
 
-    <!-- Goals -->
-    <div style="
-      border: 2px solid #fff; 
-      padding: 10px; 
-      box-sizing: border-box;
-    ">
-      <h2 style="margin-top: 0;">Goals</h2>
-      <ul>
-        <li>Master data &amp; AI at all levels</li>
-        <li>Acquire typing certificate</li>
-        <li>Improve open source AI &amp; API skills</li>
-        <li>Land a high-level AI position</li>
-      </ul>
-    </div>
+<div align="center">
+<a href="https://github.com/lalomorales22" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" height="40" alt="GitHub"/>
+</a>
+<a href="https://twitter.com/lalopenguin" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40" alt="Twitter"/>
+</a>
+<a href="https://www.linkedin.com/in/lalo-morales-331474208/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/lalodangermorales/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" height="40" alt="Facebook"/>
+</a>
+<a href="https://www.twitch.tv/laloadrianmorales" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/twitch--v1.png" width="40" height="40" alt="Twitch"/>
+</a>
+<a href="https://www.reddit.com/user/laloadrianmorales/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/reddit.png" width="40" height="40" alt="Reddit"/>
+</a>
+<a href="https://www.instagram.com/laloadrianmorales/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="40" height="40" alt="Instagram"/>
+</a>
+<a href="https://www.laloadrianmorales.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Personal Website"/>
+</a>
+<a href="https://www.youtube.com/@thelalomorales" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" height="40" alt="YouTube"/>
+</a>
+<a href="https://www.tiktok.com/@jreclips222" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/tiktok.png" width="40" height="40" alt="TikTok"/>
+</a>
+<a href="https://www.yelp.com/biz/penguin-dreams-chula-vista" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/yelp.png" width="40" height="40" alt="Yelp"/>
+</a>
+<a href="https://www.discord.com/users/laloadrianmorales" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40" alt="Discord"/>
+</a>
+</div>
 
-    <!-- Contact -->
-    <div style="
-      border: 2px solid #fff; 
-      padding: 10px; 
-      box-sizing: border-box;
-    ">
-      <h2 style="margin-top: 0;">Contact</h2>
-      <p>Email: <a href="mailto:laloadrianmorales@gmail.com" style="color: #fff;">laloadrianmorales@gmail.com</a></p>
-      <p>LinkedIn: <a href="https://www.linkedin.com/in/lalo-morales-331474208/" style="color: #fff;">Lalo Morales</a></p>
-      <p>Twitter: <a href="https://twitter.com/lalopenguin" style="color: #fff;">@lalopenguin</a></p>
-      <p>Website: <a href="https://www.laloadrianmorales.com" style="color: #fff;">laloadrianmorales.com</a></p>
-    </div>
+---
 
-    <!-- License -->
-    <div style="
-      border: 2px solid #fff; 
-      padding: 10px; 
-      box-sizing: border-box;
-    ">
-      <h2 style="margin-top: 0;">License</h2>
-      <p>All repositories under MIT License unless specified otherwise.</p>
-      <p>
-        See <code>LICENSE</code> files for details.
-      </p>
-    </div>
-  </div>
+## About Me
 
-  <!-- Footer / Closing -->
-  <div style="
-    text-align: center; 
-    padding: 10px; 
-    margin-top: 10px; 
-    border-top: 2px solid #fff;
-  ">
-    <p style="margin: 5px 0;">Thanks for stopping by!</p>
-    <p style="margin: 5px 0;">Feel free to explore and reach out.</p>
-  </div>
+- **Name:** Lalo  
+- **Location:** San Diego, California  
+- **Profession:** Software Developer & Data Engineer  
+- **Languages & Tech:** HTML, JS, CSS, Python, R, Ruby, AI, NLP, LLMs  
+- Proud father
+- Always learning & tinkering with everything released
+
+I love finding patterns (like the Fibonacci sequence) and exploring connections across technology, language, and beyond. If you’re into code, cosmic wonders, or just good conversation—welcome aboard!
+
+---
+
+## Projects
+
+### WGGY Project
+- **Description:** Minimalist app to rename files with a futuristic flair. Currently prototyping the initial release.
+
+### that's_my_bit
+- **Description:** A playful project with a specific file structure. Details in the repo.
+
+### Comedian's Joke App
+- **Description:** For the jesters among us! An AI-powered app for comedians to record jokes, transcribe them, summarize content, and spark new ideas.
+
+---
+
+## Skills
+- **Languages & Frameworks:** HTML, CSS, JS, Python, R, Ruby, Django, React  
+- **Data Tools:** Google Sheets, App Sheets, Looker Studio  
+- **Focus Areas:** AI, NLP, Computer Networking, Digital Marketing  
+
+I’m on a mission to learn everything about data—from the bits and bytes to advanced AI frontiers.
+
+---
+
+## Goals
+- **Master APIs & Open Source AI** for real-world problem-solving.  
+
+I believe in bridging creativity with code to build solutions that make life easier and more fun.
+
+---
+
+## Contact Me
+- **Email:** [laloadrianmorales@gmail.com](mailto:laloadrianmorales@gmail.com)  
+- **LinkedIn:** [Lalo Morales](https://www.linkedin.com/in/lalo-morales-331474208/)  
+- **Twitter:** [@lalopenguin](https://twitter.com/lalopenguin)  
+- **Personal Website:** [laloadrianmorales.com](https://www.laloadrianmorales.com)
+
+If anything here sparks your curiosity, feel free to reach out for a chat, collaboration, or cosmic conspiracies. 
+
+---
+
+## License
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+<div align="center">
+
+System.out.println("Thank you for jacking in! "); return "Have a wonderful day.";
+
+bash
+Copy
 
 </div>
+
