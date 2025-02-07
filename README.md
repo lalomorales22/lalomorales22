@@ -115,7 +115,6 @@ This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE
 
 <div align="center">
 
-System.out.println("Thank you for jacking in! "); return "Have a wonderful day.";
 
 <a href="https://app.daily.dev/lalomorales"><img src="https://api.daily.dev/devcards/v2/8mJkeq2c9RweLAEXfGIXF.png?type=default&r=yav" width="356" alt="lalo morales's Dev Card"/></a>
 
