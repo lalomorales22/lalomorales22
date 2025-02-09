@@ -6,14 +6,13 @@
 
 <div align="center">
 
-<img src="https://laloadrianmorales.com/wp-content/uploads/2024/01/AIpenguins2-768x768.jpeg" alt="Lalo's Logo" width="400" height="300" style="object-fit: cover;">
 </div>
 
 ---
 
-# Lalo's GitHub Portfolio
+# Lalo's GitHub
 
-Greetings, traveler of code and cosmic curiosities! I'm **Lalo**, a software developer and data engineer based in sunny San Diego. In this little corner of the GitHub realm, you'll find a smorgasbord of my projects, ideas, and personal tidbits. 
+Greetings! I'm **Lalo**, a software developer and data engineer based in sunny San Diego. In this little corner of the GitHub realm, you'll find a smorgasbord of my projects, ideas, and personal tidbits. 
 
 ## Social Media
 
