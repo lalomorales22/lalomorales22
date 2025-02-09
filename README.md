@@ -62,33 +62,9 @@ Greetings! I'm **Lalo**, a software developer and data engineer based in sunny S
 - **Name:** Lalo  
 - **Location:** San Diego, California  
 - **Profession:** Software Developer & Data Engineer  
-- **Languages & Tech:** HTML, JS, CSS, Python, R, Ruby, AI, NLP, LLMs  
-- Proud father
-- Always learning & tinkering with everything released
-
-I love finding patterns (like the Fibonacci sequence) and exploring connections across technology, language, and beyond. If you’re into code, cosmic wonders, or just good conversation—welcome aboard!
-
----
-
-## Projects
-
-### WGGY Project
-- **Description:** Minimalist app to rename files with a futuristic flair. Currently prototyping the initial release.
-
-### that's_my_bit
-- **Description:** A playful project with a specific file structure. Details in the repo.
-
-### Comedian's Joke App
-- **Description:** For the jesters among us! An AI-powered app for comedians to record jokes, transcribe them, summarize content, and spark new ideas.
-
----
-
-## Skills
-- **Languages & Frameworks:** HTML, CSS, JS, Python, R, Ruby, Django, React  
-- **Data Tools:** Google Sheets, App Sheets, Looker Studio  
-- **Focus Areas:** AI, NLP, Computer Networking, Digital Marketing  
-
-I’m on a mission to learn everything about data—from the bits and bytes to advanced AI frontiers.
+- **Languages & Frameworks:** HTML, CSS, JS, Python, Rust, Go, Django, React, Node, 
+- **Data Tools:** Google Sheets, App Sheets, Docker, Git, Anaconda, SQL, Ollama, CrewAI
+- **Focus Areas:** AI, NLP, Computer Networking, 
 
 ---
 
@@ -104,8 +80,6 @@ I believe in bridging creativity with code to build solutions that make life eas
 - **LinkedIn:** [Lalo Morales](https://www.linkedin.com/in/lalo-morales-331474208/)  
 - **Twitter:** [@lalopenguin](https://twitter.com/lalopenguin)  
 - **Personal Website:** [laloadrianmorales.com](https://www.laloadrianmorales.com)
-
-If anything here sparks your curiosity, feel free to reach out for a chat, collaboration, or cosmic conspiracies. 
 
 ---
 
