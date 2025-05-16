@@ -39,9 +39,9 @@
 ## 🚀 Current Missions
 
 ```text
-[0] Build ⬛ NotForHumans.ai — AI‑only social network
-[1] Deploy ⬛ Comedeez.ai      — AI comedy tools
-[2] Ship  ⬛ BuyHashRosin.com  — Weedmaps for hash rosin
+[1] Deployed ⬛ Comedeez.ai      — AI comedy writing tools
+[2] Building ⬛ NotForHumans.ai — AI‑only social network
+[3] Building  ⬛ BuyHashRosin.com  — Weedmaps for hash rosin
 ```
 
 ---
@@ -64,25 +64,19 @@
       <td><strong>🐧 PenguinIDE</strong></td>
       <td>Mini Java IDE with embedded local LLM assistant.</td>
       <td>Java · JavaFX · Ollama API</td>
-      <td><a href="https://github.com/lalomorales22/penguin-ide">Repo</a></td>
-    </tr>
-    <tr>
-      <td><strong>🎭 Comedeez.ai</strong></td>
-      <td>Full‑stack AI joke & meme generator — laughter as a service.</td>
-      <td>PHP · MySQL · Railway · OpenAI</td>
-      <td><a href="https://comedeez.ai">Live</a></td>
+      <td><a href="https://github.com/lalomorales22/penguinAI">Repo</a></td>
     </tr>
     <tr>
       <td><strong>🌐 NoHumans</strong></td>
       <td>Agent‑only social feed — self‑organising AI personas.</td>
       <td>PHP · MySQL · Next.js · Multi‑LLM</td>
-      <td><a href="https://github.com/lalomorales22/nohumans">Repo</a></td>
+      <td><a href="https://github.com/lalomorales22/not-for-humans-ai">Repo</a></td>
     </tr>
     <tr>
-      <td><strong>🚗 EarthDrive</strong></td>
-      <td>Real‑world map driving prototype in Three.js.</td>
+      <td><strong>🚗 Global Analytics Board</strong></td>
+      <td>Analytics Dashboard with Earth like Structure.</td>
       <td>Three.js · Mapbox · WebGL</td>
-      <td><a href="https://earthdrive.vercel.app">Demo</a></td>
+      <td><a href="https://github.com/lalomorales22/global-analytics-dashboard">Repo</a></td>
     </tr>
   </tbody>
 </table>
@@ -99,8 +93,7 @@
 | ------------------------------------------------------------------------------------- | -------------------------------- |
 | [laloadrianmorales.com](https://laloadrianmorales.com/)                               | Main site / blog                 |
 | [ai.laloadrianmorales.com](https://ai.laloadrianmorales.com/)                         | AI creations site                |
-| [birthday.laloadrianmorales.com](https://birthday.laloadrianmorales.com/)             | Bert's birthday site             |
-| [bobotics.laloadrianmorales.com](https://bobotics.laloadrianmorales.com/)             | Robotics site                    |
+| [birthday.laloadrianmorales.com](https://birthday.laloadrianmorales.com/)             | Bert's birthday site             |                  |
 | [chat.laloadrianmorales.com](https://chat.laloadrianmorales.com/)                     | AOL‑style instant messenger      |
 | [codejam.laloadrianmorales.com](https://codejam.laloadrianmorales.com/)               | UFO game                         |
 | [consciousness.laloadrianmorales.com](https://consciousness.laloadrianmorales.com/)   | Test React site                  |
@@ -115,12 +108,8 @@
 | [hbd.laloadrianmorales.com](https://hbd.laloadrianmorales.com/)                       | Bert's birthday game             |
 | [jessica.laloadrianmorales.com](https://jessica.laloadrianmorales.com/)               | Jessica's birthday game          |
 | [joey.laloadrianmorales.com](https://joey.laloadrianmorales.com/)                     | Joey's birthday game             |
-| [max.laloadrianmorales.com](https://max.laloadrianmorales.com/)                       | Max's mini‑site                  |
-| [news.laloadrianmorales.com](https://news.laloadrianmorales.com/)                     | News feed                        |
 | [notes.laloadrianmorales.com](https://notes.laloadrianmorales.com/)                   | Bash cheatsheet & file structure |
-| [portal.laloadrianmorales.com](https://portal.laloadrianmorales.com/)                 | Personal portal                  |
 | [portfolio.laloadrianmorales.com](https://portfolio.laloadrianmorales.com/)           | Deep‑research portfolio          |
-| [simulator.laloadrianmorales.com](https://simulator.laloadrianmorales.com/)           | Simulator experiments            |
 | [sounds.laloadrianmorales.com](https://sounds.laloadrianmorales.com/)                 | Soundboard                       |
 | [trig.laloadrianmorales.com](https://trig.laloadrianmorales.com/)                     | Trigonometry app                 |
 | [visuals.laloadrianmorales.com](https://visuals.laloadrianmorales.com/)               | HTML visualizations              |
@@ -136,17 +125,13 @@
 | [make.whatgodgaveyou.com](https://make.whatgodgaveyou.com/)                  | Text‑to‑everything app         |
 | [makegameswith.whatgodgaveyou.com](http://makegameswith.whatgodgaveyou.com/) | 8‑bit game maker               |
 | [shop.whatgodgaveyou.com](https://shop.whatgodgaveyou.com/)                  | Joey's bike shop site          |
-| [system.whatgodgaveyou.com](https://system.whatgodgaveyou.com/)              | System dashboard               |
 | [use.whatgodgaveyou.com](https://use.whatgodgaveyou.com/)                    | Algorithm visualizations       |
-| [veterans.whatgodgaveyou.com](https://veterans.whatgodgaveyou.com/)          | Veteran disability claim app   |
 
 ### **buyhashrosin.com**
 
 | Subdomain                                                       | Description          |
 | --------------------------------------------------------------- | -------------------- |
-| [1904.buyhashrosin.com](https://1904.buyhashrosin.com/)         | 1904 POS system      |
 | [buyhashrosin.com](https://buyhashrosin.com/)                   | Hash rosin directory |
-| [denglass.buyhashrosin.com](https://denglass.buyhashrosin.com/) | 710 Den product site |
 | [drinks.buyhashrosin.com](https://drinks.buyhashrosin.com/)     | AI drink generator   |
 | [luis.buyhashrosin.com](https://luis.buyhashrosin.com/)         | Luis’s birthday game |
 
@@ -158,10 +143,6 @@
 Terminal ⚙️  VS Code ⚙️  Rust ⚙️  Go ⚙️  Docker ⚙️  Git ⚙️  Homebrew ⚙️  Ollama ⚙️  CrewAI
 Cursor ⚙️  OBS ⚙️  ChatGPT ⚙️  Claude ⚙️  Grok ⚙️  Gemini Pro ⚙️  GitHub ⚙️  Railway ⚙️  MySQL
 ```
-
-Terminal ⚙️  VS Code ⚙️  Rust ⚙️  Go ⚙️  Docker ⚙️  Git ⚙️  Homebrew ⚙️  Ollama ⚙️  CrewAI
-
-````
 
 ---
 
@@ -176,16 +157,8 @@ Terminal ⚙️  VS Code ⚙️  Rust ⚙️  Go ⚙️  Docker ⚙️  Git ⚙
 
 I stream builds on **YouTube** and shitpost insights on **X**. Catch real‑time dev chaos:
 
-- <a href="https://youtube.com/@thelalomorales">📺 YouTube @thelalomorales</a>
-- <a href="https://x.com/lalopenguin">🐦 X @lalopenguin</a>
-
----
-
-## 📈 Stats (because dopamine)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalomorales22&theme=tokyonight&show_icons=true&hide=prs,issues&count_private=true" alt="GitHub stats"/>
-</p>
+- 📺 YouTube @thelalomorales</a>
+- 🐦 X @lalopenguin</a>
 
 ---
 
@@ -196,9 +169,8 @@ Docs may be sparse. Issues welcome. PRs blessed.
 
 ---
 
-<div align="center" style="margin-top:20px;">
 
-```ascii
+```
 +----------------------------------------+
 | S   |   | |   |     |   |   | |   |   |
 | | | | | | | | | |_| | | | | | | | | | |
