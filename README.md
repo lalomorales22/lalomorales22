@@ -39,8 +39,8 @@
 ## 🚀 Current Missions
 
 ```text
-[1] Deployed ⬛ Comedeez.ai        — AI comedy writing tools
-[2] Building ⬛ Whatgodgaveyou.com - Get AI Help with what you're best at
+[1] Deployed  ⬛ Comedeez.ai        — AI comedy writing tools
+[2] Building  ⬛ Whatgodgaveyou.com - Get AI Help with what you're best at
 [3] Building  ⬛ BuyHashRosin.com  — Weedmaps for hash rosin
 ```
 
@@ -158,13 +158,6 @@
 | **Development** | **Languages** | **Databases** | **Infrastructure** | **AI / LLMs** | **Creative / Other** |
 |-----------------|---------------|---------------|--------------------|---------------|----------------------|
 | <img src="https://img.shields.io/badge/-VS%20Code-0?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC"/> <img src="https://img.shields.io/badge/-Warp-0?style=for-the-badge&logo=warp&logoColor=white&color=333333"/> <img src="https://img.shields.io/badge/-Cursor-0?style=for-the-badge&logo=cursor&logoColor=white&color=5C5CFF"/> <img src="https://img.shields.io/badge/-Git-0?style=for-the-badge&logo=git&logoColor=white&color=F05032"/> <img src="https://img.shields.io/badge/-Docker-0?style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/> <img src="https://img.shields.io/badge/-Homebrew-0?style=for-the-badge&logo=homebrew&logoColor=white&color=FBB040"/> | <img src="https://img.shields.io/badge/-Python-0?style=for-the-badge&logo=python&logoColor=white&color=3673A5"/> <img src="https://img.shields.io/badge/-Java-0?style=for-the-badge&logo=openjdk&logoColor=white&color=E76F00"/> <img src="https://img.shields.io/badge/-JavaScript-0?style=for-the-badge&logo=javascript&logoColor=black&color=F0DB4F"/> <img src="https://img.shields.io/badge/-TypeScript-0?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6"/> <img src="https://img.shields.io/badge/-C-0?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC"/> <img src="https://img.shields.io/badge/-C++-0?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C"/> <img src="https://img.shields.io/badge/-Rust-0?style=for-the-badge&logo=rust&logoColor=white&color=000000"/> <img src="https://img.shields.io/badge/-Go-0?style=for-the-badge&logo=go&logoColor=white&color=00ADD8"/> <img src="https://img.shields.io/badge/-Swift-0?style=for-the-badge&logo=swift&logoColor=white&color=FA7343"/> <img src="https://img.shields.io/badge/-Kotlin-0?style=for-the-badge&logo=kotlin&logoColor=white&color=7F52FF"/> | <img src="https://img.shields.io/badge/-PostgreSQL-0?style=for-the-badge&logo=postgresql&logoColor=white&color=336791"/> <img src="https://img.shields.io/badge/-MySQL-0?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1"/> <img src="https://img.shields.io/badge/-SQLite-0?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57"/> <img src="https://img.shields.io/badge/-Redis-0?style=for-the-badge&logo=redis&logoColor=white&color=DC382D"/> | <img src="https://img.shields.io/badge/-AWS-0?style=for-the-badge&logo=amazonaws&logoColor=white&color=232F3E"/> <img src="https://img.shields.io/badge/-GCP-0?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4"/> <img src="https://img.shields.io/badge/-Railway-0?style=for-the-badge&logo=railway&logoColor=white&color=0B0D0E"/> <img src="https://img.shields.io/badge/-NGINX-0?style=for-the-badge&logo=nginx&logoColor=white&color=009639"/> <img src="https://img.shields.io/badge/-WebSockets-0?style=for-the-badge&logo=socket.io&logoColor=white&color=010101"/> | <img src="https://img.shields.io/badge/-ChatGPT-0?style=for-the-badge&logo=openai&logoColor=white&color=412991"/> <img src="https://img.shields.io/badge/-Claude-0?style=for-the-badge&logo=anthropic&logoColor=white&color=101010"/> <img src="https://img.shields.io/badge/-Grok-0?style=for-the-badge&logo=x&logoColor=white&color=000000"/> <img src="https://img.shields.io/badge/-Gemini-0?style=for-the-badge&logo=googlebard&logoColor=white&color=4285F4"/> <img src="https://img.shields.io/badge/-Ollama-0?style=for-the-badge&logo=ollama&logoColor=white&color=000000"/> <img src="https://img.shields.io/badge/-CrewAI-0?style=for-the-badge&logo=openaigym&logoColor=white&color=E00000"/> | <img src="https://img.shields.io/badge/-OBS-0?style=for-the-badge&logo=obsstudio&logoColor=white&color=302E31"/> <img src="https://img.shields.io/badge/-Blender-0?style=for-the-badge&logo=blender&logoColor=white&color=F5792A"/> <img src="https://img.shields.io/badge/-Unreal%20Engine-0?style=for-the-badge&logo=unrealengine&logoColor=white&color=0E1128"/> <img src="https://img.shields.io/badge/-MCP-0?style=for-the-badge&logo=matrix&logoColor=white&color=000000"/> |
-
----
-
-## 🤖 AI & Me
-
-> **Since 2022 I've pair‑programmed with GPT‑3.5, GPT‑4, Claude, Gemini, Grok & more.**  
-> Everything here is AI‑accelerated. Expect rapid prototypes > polished gems.
 
 ---
 
