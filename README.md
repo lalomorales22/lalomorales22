@@ -41,7 +41,7 @@
 ```text
 [1] Deployed  ⬛ Comedeez.ai        — AI comedy writing tools
 [2] Building  ⬛ Whatgodgaveyou.com - Get AI Help with what you're best at
-[3] Building  ⬛ BuyHashRosin.com  — Weedmaps for hash rosin
+[3] Building  ⬛ SouthbayITSolutions.com  — San Diego IT Company
 ```
 
 ---
@@ -110,46 +110,11 @@
 | Subdomain                                                                             | Description                      |
 | ------------------------------------------------------------------------------------- | -------------------------------- |
 | [laloadrianmorales.com](https://laloadrianmorales.com/)                               | Main site / blog                 |
-| [ai.laloadrianmorales.com](https://ai.laloadrianmorales.com/)                         | AI creations site                |
-| [birthday.laloadrianmorales.com](https://birthday.laloadrianmorales.com/)             | Bert's birthday site             |
 | [chat.laloadrianmorales.com](https://chat.laloadrianmorales.com/)                     | AOL‑style instant messenger      |
 | [consciousness.laloadrianmorales.com](https://consciousness.laloadrianmorales.com/)   | Test React site                  |
 | [deadbeesociety.laloadrianmorales.com](https://deadbeesociety.laloadrianmorales.com/) | Dead Bee Society app             |
-| [ej.laloadrianmorales.com](https://ej.laloadrianmorales.com/)                         | EJ's birthday game               |
-| [elliott.laloadrianmorales.com](https://elliott.laloadrianmorales.com/)               | Elliott's birthday game          |
-| [explore.laloadrianmorales.com](https://explore.laloadrianmorales.com/)               | Constellation finder app         |
-| [fly.laloadrianmorales.com](https://fly.laloadrianmorales.com/)                       | Airplane game                    |
-| [game.laloadrianmorales.com](https://game.laloadrianmorales.com/)                     | Voxel maze game                  |
-| [games.laloadrianmorales.com](https://games.laloadrianmorales.com/)                   | Game vault – HTML games          |
-| [hbd.laloadrianmorales.com](https://hbd.laloadrianmorales.com/)                       | Bert's birthday game             |
-| [jessica.laloadrianmorales.com](https://jessica.laloadrianmorales.com/)               | Jessica's birthday game          |
-| [joey.laloadrianmorales.com](https://joey.laloadrianmorales.com/)                     | Joey's birthday game             |
-| [notes.laloadrianmorales.com](https://notes.laloadrianmorales.com/)                   | Bash cheatsheet & file structure |
-| [portfolio.laloadrianmorales.com](https://portfolio.laloadrianmorales.com/)           | Deep‑research portfolio          |
-| [sounds.laloadrianmorales.com](https://sounds.laloadrianmorales.com/)                 | Soundboard                       |
-| [trig.laloadrianmorales.com](https://trig.laloadrianmorales.com/)                     | Trigonometry app                 |
 | [visuals.laloadrianmorales.com](https://visuals.laloadrianmorales.com/)               | HTML visualizations              |
 
-### **whatgodgaveyou.com**
-
-| Subdomain                                                                    | Description                    |
-| ---------------------------------------------------------------------------- | ------------------------------ |
-| [badadvice.whatgodgaveyou.com](https://badadvice.whatgodgaveyou.com/)        | Bad advice app                 |
-| [frequencies.whatgodgaveyou.com](https://frequencies.whatgodgaveyou.com/)    | Frequency generator            |
-| [hack.whatgodgaveyou.com](https://hack.whatgodgaveyou.com/)                  | Penguin hacker game            |
-| [hope.whatgodgaveyou.com](http://hope.whatgodgaveyou.com/)                   | Homeless resources (San Diego) |
-| [make.whatgodgaveyou.com](https://make.whatgodgaveyou.com/)                  | Text‑to‑everything app         |
-| [makegameswith.whatgodgaveyou.com](http://makegameswith.whatgodgaveyou.com/) | 8‑bit game maker               |
-| [shop.whatgodgaveyou.com](https://shop.whatgodgaveyou.com/)                  | Joey's bike shop site          |
-| [use.whatgodgaveyou.com](https://use.whatgodgaveyou.com/)                    | Algorithm visualizations       |
-
-### **buyhashrosin.com**
-
-| Subdomain                                                       | Description          |
-| --------------------------------------------------------------- | -------------------- |
-| [buyhashrosin.com](https://buyhashrosin.com/)                   | Hash rosin directory |
-| [drinks.buyhashrosin.com](https://drinks.buyhashrosin.com/)     | AI drink generator   |
-| [luis.buyhashrosin.com](https://luis.buyhashrosin.com/)         | Luis's birthday game |
 
 ---
 
@@ -163,7 +128,7 @@
 
 ## ✍️ Content
 
-I stream builds on **YouTube** and shitpost insights on **X**. Catch real‑time dev chaos:
+I stream builds on **YouTube** and post insights on **X**. Catch real‑time dev chaos:
 
 - 📺 YouTube @thelalomorales
 - 🐦 X @lalopenguin
