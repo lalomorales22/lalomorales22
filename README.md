@@ -40,7 +40,7 @@
 
 ```text
 [1] Deployed  ⬛ Comedeez.ai        — AI comedy writing tools
-[2] Building  ⬛ Whatgodgaveyou.com - Get AI Help with what you're best at
+[2] Building  ⬛ Whatgodgaveyou.com - Succulent site for mom
 [3] Building  ⬛ SouthbayITSolutions.com  — San Diego IT Company
 ```
 
